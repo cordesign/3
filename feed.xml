@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://cordesign.github.io/3/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cordesign.github.io/3/" rel="alternate" type="text/html" /><updated>2016-10-31T23:15:28+00:00</updated><id>https://cordesign.github.io/3/</id><title>A Seasonal Magazine</title><subtitle>A lite version of the magazine that will give you a taste of what to expect</subtitle><entry><title>Tool Making</title><link href="https://cordesign.github.io/3/tool-making/" rel="alternate" type="text/html" title="Tool Making" /><published>2016-10-31T00:00:00+00:00</published><updated>2016-10-31T00:00:00+00:00</updated><id>https://cordesign.github.io/3/tool-making</id><content type="html" xml:base="https://cordesign.github.io/3/tool-making/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://cordesign.github.io/3/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cordesign.github.io/3/" rel="alternate" type="text/html" /><updated>2016-11-04T10:26:28+00:00</updated><id>https://cordesign.github.io/3/</id><title>A Seasonal Magazine</title><subtitle>A lite version of the magazine that will give you a taste of what to expect</subtitle><entry><title>Tool Making</title><link href="https://cordesign.github.io/3/tool-making/" rel="alternate" type="text/html" title="Tool Making" /><published>2016-10-31T00:00:00+00:00</published><updated>2016-10-31T00:00:00+00:00</updated><id>https://cordesign.github.io/3/tool-making</id><content type="html" xml:base="https://cordesign.github.io/3/tool-making/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
   &lt;header&gt;
     &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
   &lt;/header&gt;
@@ -270,8 +270,8 @@ I Easily accessible, functionally sorted tools also give you a ready familiarity
 &lt;h2 id=&quot;cover&quot;&gt;Cover&lt;/h2&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;C:\Users\vasco\Documents\design\proj1\meta3\website\3-master\assets\img&quot;&gt;&lt;img src=&quot;/assets/img/capa.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;#1 Construction Money Power&lt;/a&gt;.&lt;/figcaption&gt;
+	&lt;a href=&quot;../3/assets/img/capa.jpg&quot;&gt;&lt;img src=&quot;/assets/img/capa.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;../3/assets/img/capa.jpg&quot;&gt;&lt;img src=&quot;/assets/img/capa.jpg&quot; /&gt;#1 Construction Money Power&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;editorial&quot;&gt;Editorial&lt;/h2&gt;
